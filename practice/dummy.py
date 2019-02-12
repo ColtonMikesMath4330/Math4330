@@ -5,3 +5,7 @@ def add(a,b):
 	print(result)
 	
 add(a,b)
+
+def multi(a,b):
+	result = a*b
+	print(result)
